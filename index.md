@@ -6,7 +6,7 @@ header:
     Snap Mortgage is an online mortgage marketplace in NZ for various borrowing needs. We are an online mortgage marketplace for various financial borrowing needs including home purchase, home refinance, equity mortgage and more.
   action: # action button is optional
     label: More Mortgage Options
-    url: '#about' # change later
+    url: 'https://app.snapmortgage.co.nz' # change later
 
 
 sections:
@@ -17,7 +17,7 @@ sections:
     text: Give us some details on the kind of mortgage you need. We’ll send your request out to our NZ lender network, and within seconds, you’ll see competing offers.
     actions:
       - title: Get Started!
-        url: '#'
+        url: 'https://app.snapmortgage.co.nz'
         class: btn-light
 
   - type: services.html
@@ -29,20 +29,20 @@ sections:
         text: A low rate can save you hundres each year
         #icon: fa-gem text-info
         icon: fa-home
-        url: https://snapmortgage.co.nz/
+        url: https://app.snapmortgage.co.nz/
       - title: Payment Calculator
         text: Figure out your estimated payment the easy way
         #icon: fa-paper-plane
         icon: fa-calculator
-        url: https://snapmortgage.co.nz/
+        url: https://app.snapmortgage.co.nz/
       - title: Ratings & Reviews
         text: What they are saying about the lenders in NZ
         icon: fa-comments
-        url: https://snapmortgage.co.nz/
+        url: https://app.snapmortgage.co.nz/
       - title: Credit Score
         text: Check and monitor your credit score for free
         icon: fa-star
-        url: https://snapmortgage.co.nz/
+        url: https://app.snapmortgage.co.nz/
 
 #- type: portfolio.html
 #  # this section has always ID 'portfolio'
