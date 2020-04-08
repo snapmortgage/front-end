@@ -1,13 +1,12 @@
 ---
 layout: home
 header:
-  title: Your Favourite Mortgage Online Marketplace
+  title: Shop and compare everything. Even Mortgages.
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Snap Mortgage is an online mortgage marketplace for various borrowing needs. We offer comparison shopping services such as first home buyers and home refinance programs. Together, these services serve as an ally for consumers who are looking to comparison shop among multiple businesses and professionals who will compete for their business.
   action: # action button is optional
-    label: Find Out More
-    url: '#about'
+    label: More Mortgage Options
+    url: '#about' # change later
 
 
 sections:
