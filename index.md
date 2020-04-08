@@ -3,7 +3,7 @@ layout: home
 header:
   title: Shop and compare everything. Even Mortgages.
   text: >
-    Snap Mortgage is an online mortgage marketplace for various borrowing needs. We offer comparison shopping services such as first home buyers and home refinance programs. Together, these services serve as an ally for consumers who are looking to comparison shop among multiple businesses and professionals who will compete for their business.
+    Snap Mortgage is an online mortgage marketplace in NZ for various borrowing needs. We are an online mortgage marketplace for various financial borrowing needs including home purchase, home refinance, equity mortgage and more.
   action: # action button is optional
     label: More Mortgage Options
     url: '#about' # change later
@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    text: Give us some details on the kind of mortgage you need. We’ll send your request out to our NZ lender network, and within seconds, you’ll see competing offers.
     actions:
       - title: Get Started!
         url: '#'
@@ -23,27 +23,24 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Financial Resource Center
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Mortgage Rates
+        text: A low rate can save you hundres each year
         icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+        url: https://snapmortgage.co.nz/
+      - title: Payment Calculator
+        text: Figure out your estimated payment the easy way
         icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+        url: https://snapmortgage.co.nz/
+      - title: Ratings & Reviews
+        text: What they are saying about the lenders in NZ
         icon: fa-laptop-code
-      - title: Made with Love
+        url: https://snapmortgage.co.nz/
+      - title: Credit Score
         text: You have to make your websites with love these days!
         icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+        url: https://snapmortgage.co.nz/
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
