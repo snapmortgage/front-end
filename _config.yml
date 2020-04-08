@@ -1,9 +1,9 @@
 # Site settings
 title: Snap Mortgage
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Start Bootstrap
+description: Test description # this means to ignore newlines until "baseurl:" #LendingTree is America's largest online lending marketplace. It connects borrowers with multiple lenders so they can find the best deals on loans, credit cards, deposit accounts, insurance and more. LendingTree allows borrowers to shop and compare competitive rates and terms across an array of financial products.
+baseurl: "/webapp/" # the subpath of your site, e.g. /blog/
+url: "https://snapmortgage.github.io/webapp/" # the base hostname & protocol for your site
+author: Copyright &copy; 2020 - Snap Mortgage
 lang: en_US
 
 # Build settings
