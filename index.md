@@ -33,15 +33,15 @@ sections:
       - title: Payment Calculator
         text: Figure out your estimated payment the easy way
         #icon: fa-paper-plane
-        icon: home
+        icon: fa-calculator
         url: https://snapmortgage.co.nz/
       - title: Ratings & Reviews
         text: What they are saying about the lenders in NZ
-        icon: fa-laptop-code
+        icon: fa-comments
         url: https://snapmortgage.co.nz/
       - title: Credit Score
-        text: You have to make your websites with love these days!
-        icon: fa-heart
+        text: Check and monitor your credit score for free
+        icon: fa-star
         url: https://snapmortgage.co.nz/
 
   - type: portfolio.html
