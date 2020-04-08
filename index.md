@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Your Favourite Mortgage Online Marketplace to get the Best Rate For Your Home Loan
+  title: Your Favourite Mortgage Online Marketplace
   text: >
     Start Bootstrap can help you build better websites using the Bootstrap
     framework! Just download a theme and start customizing, no strings attached!
@@ -138,7 +138,7 @@ sections:
           We started to gather like minded people and started our stategies
           and future plans to them. As a result , interested people joined us!
 
-  - type: contact.html
+  - type: contact2.html
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
