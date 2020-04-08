@@ -27,11 +27,13 @@ sections:
     services:
       - title: Mortgage Rates
         text: A low rate can save you hundres each year
-        icon: fa-gem text-info
+        #icon: fa-gem text-info
+        icon: fa-home
         url: https://snapmortgage.co.nz/
       - title: Payment Calculator
         text: Figure out your estimated payment the easy way
-        icon: fa-paper-plane
+        #icon: fa-paper-plane
+        icon: home
         url: https://snapmortgage.co.nz/
       - title: Ratings & Reviews
         text: What they are saying about the lenders in NZ
